@@ -1,0 +1,748 @@
+2024-04-12 16:47:22,762 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 16:47:22,762 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 16:47:22,775 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:47:24,256 - WARNING -  * Debugger is active!
+2024-04-12 16:47:24,260 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:47:33,626 - INFO - 127.0.0.1 - - [12/Apr/2024 16:47:33] "GET / HTTP/1.1" 200 -
+2024-04-12 16:47:39,908 - INFO - Received prediction request.
+2024-04-12 16:47:39,910 - ERROR - Error occurred: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2024-04-12 16:47:39,925 - INFO - 127.0.0.1 - - [12/Apr/2024 16:47:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 16:47:39,998 - INFO - 127.0.0.1 - - [12/Apr/2024 16:47:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 16:47:40,166 - INFO - 127.0.0.1 - - [12/Apr/2024 16:47:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 16:47:40,548 - INFO - 127.0.0.1 - - [12/Apr/2024 16:47:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:49:46,298 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 16:49:46,298 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 16:49:46,325 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:49:48,035 - WARNING -  * Debugger is active!
+2024-04-12 16:49:48,040 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:49:53,599 - INFO - Received prediction request.
+2024-04-12 16:49:53,608 - INFO - 127.0.0.1 - - [12/Apr/2024 16:49:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 16:49:53,775 - INFO - 127.0.0.1 - - [12/Apr/2024 16:49:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 16:49:53,862 - INFO - 127.0.0.1 - - [12/Apr/2024 16:49:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 16:49:54,239 - INFO - 127.0.0.1 - - [12/Apr/2024 16:49:54] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:49:54,507 - INFO - 127.0.0.1 - - [12/Apr/2024 16:49:54] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:51:03,506 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 16:51:03,507 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 16:51:03,518 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:51:05,210 - WARNING -  * Debugger is active!
+2024-04-12 16:51:05,215 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:51:07,885 - INFO - Received prediction request.
+2024-04-12 16:51:07,892 - INFO - 127.0.0.1 - - [12/Apr/2024 16:51:07] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 16:51:07,955 - INFO - 127.0.0.1 - - [12/Apr/2024 16:51:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 16:51:08,148 - INFO - 127.0.0.1 - - [12/Apr/2024 16:51:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 16:51:08,472 - INFO - 127.0.0.1 - - [12/Apr/2024 16:51:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:51:08,739 - INFO - 127.0.0.1 - - [12/Apr/2024 16:51:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:52:02,558 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 16:52:02,558 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 16:52:02,570 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:52:04,201 - WARNING -  * Debugger is active!
+2024-04-12 16:52:04,205 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:52:07,735 - INFO - Received prediction request.
+2024-04-12 16:52:07,736 - INFO - Form data received: temp=1.0, rain=1.0, snow=1, clouds=1.0, dayOfWeek=1, weekend=1, weatherDesc=1, holiday=1
+2024-04-12 16:52:07,745 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-12 16:52:07,791 - INFO - Prediction made: traffic_volume=0.37
+2024-04-12 16:52:07,791 - ERROR - Error occurred: result.html
+2024-04-12 16:52:07,804 - INFO - 127.0.0.1 - - [12/Apr/2024 16:52:07] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 16:52:07,864 - INFO - 127.0.0.1 - - [12/Apr/2024 16:52:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 16:52:08,000 - INFO - 127.0.0.1 - - [12/Apr/2024 16:52:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 16:52:08,326 - INFO - 127.0.0.1 - - [12/Apr/2024 16:52:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:52:08,590 - INFO - 127.0.0.1 - - [12/Apr/2024 16:52:08] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:52:08,994 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:52:10,652 - WARNING -  * Debugger is active!
+2024-04-12 16:52:10,659 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:53:49,429 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 16:53:49,429 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 16:53:49,439 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:53:50,857 - WARNING -  * Debugger is active!
+2024-04-12 16:53:50,861 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:54:03,563 - INFO - Received prediction request.
+2024-04-12 16:54:03,566 - INFO - Form data received: temp=1.0, rain=1.0, snow=1, clouds=1.0, dayOfWeek=1, weekend=1, weatherDesc=1, holiday=1
+2024-04-12 16:54:03,614 - INFO - Prediction made: traffic_volume=0.37
+2024-04-12 16:54:03,614 - ERROR - Error occurred: result.html
+2024-04-12 16:54:03,628 - INFO - 127.0.0.1 - - [12/Apr/2024 16:54:03] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 16:54:03,707 - INFO - 127.0.0.1 - - [12/Apr/2024 16:54:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 16:54:03,810 - INFO - 127.0.0.1 - - [12/Apr/2024 16:54:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 16:54:04,154 - INFO - 127.0.0.1 - - [12/Apr/2024 16:54:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:54:04,419 - INFO - 127.0.0.1 - - [12/Apr/2024 16:54:04] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 16:55:37,953 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 16:55:37,955 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 16:55:39,169 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:55:41,325 - WARNING -  * Debugger is active!
+2024-04-12 16:55:41,330 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:56:22,165 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 16:56:23,410 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:56:25,306 - WARNING -  * Debugger is active!
+2024-04-12 16:56:25,310 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:57:07,509 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 16:57:07,509 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 16:57:07,519 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:57:09,013 - WARNING -  * Debugger is active!
+2024-04-12 16:57:09,016 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:57:11,977 - INFO - Received prediction request.
+2024-04-12 16:57:11,979 - INFO - Form data received: temp=1.0, rain=1.0, snow=1, clouds=1.0, dayOfWeek=1, weekend=1, weatherDesc=1, holiday=1
+2024-04-12 16:57:12,023 - INFO - Prediction made: traffic_volume=0.37
+2024-04-12 16:57:12,024 - INFO - Prediction made: traffic_volume=1.37
+2024-04-12 16:57:12,028 - INFO - 127.0.0.1 - - [12/Apr/2024 16:57:12] "POST /predict HTTP/1.1" 200 -
+2024-04-12 16:57:41,074 - INFO - Received prediction request.
+2024-04-12 16:57:41,075 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 16:57:41,078 - INFO - Prediction made: traffic_volume=0.37
+2024-04-12 16:57:41,079 - INFO - Prediction made: traffic_volume=0.37
+2024-04-12 16:57:41,079 - INFO - 127.0.0.1 - - [12/Apr/2024 16:57:41] "POST /predict HTTP/1.1" 200 -
+2024-04-12 16:58:51,647 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 16:58:51,647 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 16:58:51,659 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 16:58:53,446 - WARNING -  * Debugger is active!
+2024-04-12 16:58:53,453 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 16:58:55,356 - INFO - Received prediction request.
+2024-04-12 16:58:55,360 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 16:58:55,376 - INFO - Prediction made: traffic_volume=0.37
+2024-04-12 16:58:55,376 - INFO - Prediction made: traffic_volume=0.37
+2024-04-12 16:58:55,379 - INFO - 127.0.0.1 - - [12/Apr/2024 16:58:55] "POST /predict HTTP/1.1" 200 -
+2024-04-12 17:03:46,524 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\scipy\\__init__.py', reloading
+2024-04-12 17:03:46,554 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\scipy\\special\\__init__.py', reloading
+2024-04-12 17:03:48,433 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:03:50,965 - WARNING -  * Debugger is active!
+2024-04-12 17:03:50,969 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:05:10,672 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 17:05:10,672 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 17:05:10,681 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:05:12,912 - WARNING -  * Debugger is active!
+2024-04-12 17:05:12,919 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:05:15,779 - INFO - Received prediction request.
+2024-04-12 17:05:15,781 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 17:05:15,913 - ERROR - Error occurred: could not convert string to float: 'Columbus Day'
+2024-04-12 17:05:15,921 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\_set_output.py', reloading
+2024-04-12 17:05:15,925 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\preprocessing\\_data.py', reloading
+2024-04-12 17:05:15,926 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2024-04-12 17:05:15,926 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\_array_api.py', reloading
+2024-04-12 17:05:15,932 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\pandas\\core\\generic.py', reloading
+2024-04-12 17:05:15,939 - INFO - 127.0.0.1 - - [12/Apr/2024 17:05:15] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 17:05:16,461 - INFO - 127.0.0.1 - - [12/Apr/2024 17:05:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 17:05:16,462 - INFO - 127.0.0.1 - - [12/Apr/2024 17:05:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 17:05:16,814 - INFO - 127.0.0.1 - - [12/Apr/2024 17:05:16] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 17:05:17,482 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:05:20,041 - WARNING -  * Debugger is active!
+2024-04-12 17:05:20,044 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:05:20,119 - INFO - 127.0.0.1 - - [12/Apr/2024 17:05:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 17:07:07,616 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:07:07,620 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:07:07,621 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:07:10,281 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:07:13,440 - WARNING -  * Debugger is active!
+2024-04-12 17:07:13,444 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:09:37,688 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 17:09:37,688 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 17:09:37,706 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:09:39,701 - WARNING -  * Debugger is active!
+2024-04-12 17:09:39,708 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:09:39,747 - INFO - Received prediction request.
+2024-04-12 17:09:39,749 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 17:09:39,874 - ERROR - Error occurred: X has 9 features, but SVR is expecting 8 features as input.
+2024-04-12 17:09:39,878 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2024-04-12 17:09:39,879 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2024-04-12 17:09:39,881 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2024-04-12 17:09:39,884 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\svm\\_base.py', reloading
+2024-04-12 17:09:39,890 - INFO - 127.0.0.1 - - [12/Apr/2024 17:09:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 17:09:40,809 - INFO - 127.0.0.1 - - [12/Apr/2024 17:09:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 17:09:40,811 - INFO - 127.0.0.1 - - [12/Apr/2024 17:09:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 17:09:41,221 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:09:43,423 - WARNING -  * Debugger is active!
+2024-04-12 17:09:43,437 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:09:43,532 - INFO - 127.0.0.1 - - [12/Apr/2024 17:09:43] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 17:12:27,007 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:12:27,012 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:12:29,796 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:12:33,522 - WARNING -  * Debugger is active!
+2024-04-12 17:12:33,535 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:15:44,108 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:15:44,112 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:15:44,112 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 17:15:46,757 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:15:49,855 - WARNING -  * Debugger is active!
+2024-04-12 17:15:49,860 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:17:01,744 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 17:17:01,745 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 17:17:01,760 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:17:03,978 - WARNING -  * Debugger is active!
+2024-04-12 17:17:03,983 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 17:17:06,366 - INFO - Received prediction request.
+2024-04-12 17:17:06,370 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 17:17:06,484 - ERROR - Error occurred: X has 9 features, but SVR is expecting 8 features as input.
+2024-04-12 17:17:06,492 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2024-04-12 17:17:06,500 - INFO - 127.0.0.1 - - [12/Apr/2024 17:17:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 17:17:07,005 - INFO - 127.0.0.1 - - [12/Apr/2024 17:17:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 17:17:07,006 - INFO - 127.0.0.1 - - [12/Apr/2024 17:17:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 17:17:07,346 - INFO - 127.0.0.1 - - [12/Apr/2024 17:17:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 17:17:07,595 - INFO - 127.0.0.1 - - [12/Apr/2024 17:17:07] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 17:17:08,013 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 17:17:10,007 - WARNING -  * Debugger is active!
+2024-04-12 17:17:10,010 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:31:27,608 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:31:27,608 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:31:27,628 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:31:30,165 - WARNING -  * Debugger is active!
+2024-04-12 19:31:30,179 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:31:30,200 - INFO - Received prediction request.
+2024-04-12 19:31:30,203 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:31:30,286 - ERROR - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-04-12 19:31:30,291 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2024-04-12 19:31:30,293 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2024-04-12 19:31:30,294 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2024-04-12 19:31:30,296 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2024-04-12 19:31:30,297 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\_set_output.py', reloading
+2024-04-12 19:31:30,305 - INFO - 127.0.0.1 - - [12/Apr/2024 19:31:30] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:31:30,763 - INFO - 127.0.0.1 - - [12/Apr/2024 19:31:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:31:30,767 - INFO - 127.0.0.1 - - [12/Apr/2024 19:31:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:31:30,908 - INFO - 127.0.0.1 - - [12/Apr/2024 19:31:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:31:31,094 - INFO - 127.0.0.1 - - [12/Apr/2024 19:31:31] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:31:32,169 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:31:34,254 - WARNING -  * Debugger is active!
+2024-04-12 19:31:34,258 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:32:48,721 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 19:32:48,721 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 19:32:48,722 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-12 19:32:50,000 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:32:52,468 - WARNING -  * Debugger is active!
+2024-04-12 19:32:52,472 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:36:56,816 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:36:56,816 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:36:56,831 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:36:58,927 - WARNING -  * Debugger is active!
+2024-04-12 19:36:58,934 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:36:58,959 - INFO - Received prediction request.
+2024-04-12 19:36:58,963 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:36:59,064 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-12 19:36:59,109 - ERROR - Error occurred: Expected 2D array, got 1D array instead:
+array=[0.36987593].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2024-04-12 19:36:59,129 - INFO - 127.0.0.1 - - [12/Apr/2024 19:36:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:36:59,834 - INFO - 127.0.0.1 - - [12/Apr/2024 19:36:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:36:59,836 - INFO - 127.0.0.1 - - [12/Apr/2024 19:36:59] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:37:00,427 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:37:02,972 - WARNING -  * Debugger is active!
+2024-04-12 19:37:02,976 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:37:03,047 - INFO - 127.0.0.1 - - [12/Apr/2024 19:37:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:37:03,065 - INFO - 127.0.0.1 - - [12/Apr/2024 19:37:03] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:38:56,389 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:38:56,390 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:38:56,404 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:38:59,234 - WARNING -  * Debugger is active!
+2024-04-12 19:38:59,248 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:39:00,577 - INFO - Received prediction request.
+2024-04-12 19:39:00,580 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:39:00,722 - ERROR - Error occurred: Found array with dim 3. None expected <= 2.
+2024-04-12 19:39:00,739 - INFO - 127.0.0.1 - - [12/Apr/2024 19:39:00] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:39:00,823 - INFO - 127.0.0.1 - - [12/Apr/2024 19:39:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:39:00,863 - INFO - 127.0.0.1 - - [12/Apr/2024 19:39:00] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:39:01,197 - INFO - 127.0.0.1 - - [12/Apr/2024 19:39:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:39:01,462 - INFO - 127.0.0.1 - - [12/Apr/2024 19:39:01] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:40:24,944 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:40:24,944 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:40:24,959 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:40:27,039 - WARNING -  * Debugger is active!
+2024-04-12 19:40:27,046 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:40:29,003 - INFO - Received prediction request.
+2024-04-12 19:40:29,006 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:40:29,106 - INFO - Prediction made: traffic_volume_scaled=[0.36987593]
+2024-04-12 19:40:29,106 - ERROR - Error occurred: Found array with dim 3. None expected <= 2.
+2024-04-12 19:40:29,120 - INFO - 127.0.0.1 - - [12/Apr/2024 19:40:29] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:40:29,197 - INFO - 127.0.0.1 - - [12/Apr/2024 19:40:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:40:29,398 - INFO - 127.0.0.1 - - [12/Apr/2024 19:40:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:40:29,733 - INFO - 127.0.0.1 - - [12/Apr/2024 19:40:29] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:40:30,003 - INFO - 127.0.0.1 - - [12/Apr/2024 19:40:30] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:42:15,106 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:42:15,107 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:42:15,120 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:42:17,276 - WARNING -  * Debugger is active!
+2024-04-12 19:42:17,280 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:42:19,091 - INFO - Received prediction request.
+2024-04-12 19:42:19,093 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:42:19,220 - INFO - Prediction made: traffic_volume_scaled=[0.36987593]
+2024-04-12 19:42:19,221 - ERROR - Error occurred: Found array with dim 3. None expected <= 2.
+2024-04-12 19:42:19,235 - INFO - 127.0.0.1 - - [12/Apr/2024 19:42:19] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:42:19,802 - INFO - 127.0.0.1 - - [12/Apr/2024 19:42:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:42:19,804 - INFO - 127.0.0.1 - - [12/Apr/2024 19:42:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:42:19,948 - INFO - 127.0.0.1 - - [12/Apr/2024 19:42:19] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:42:20,151 - INFO - 127.0.0.1 - - [12/Apr/2024 19:42:20] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:43:21,707 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:43:21,707 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:43:21,720 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:43:23,641 - WARNING -  * Debugger is active!
+2024-04-12 19:43:23,645 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:43:38,906 - INFO - Received prediction request.
+2024-04-12 19:43:38,908 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:43:39,003 - INFO - Prediction made: traffic_volume_scaled=[0.36987593]
+2024-04-12 19:43:39,003 - ERROR - Error occurred: Found array with dim 3. None expected <= 2.
+2024-04-12 19:43:39,018 - INFO - 127.0.0.1 - - [12/Apr/2024 19:43:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:43:39,090 - INFO - 127.0.0.1 - - [12/Apr/2024 19:43:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:43:39,252 - INFO - 127.0.0.1 - - [12/Apr/2024 19:43:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:43:39,577 - INFO - 127.0.0.1 - - [12/Apr/2024 19:43:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:43:39,840 - INFO - 127.0.0.1 - - [12/Apr/2024 19:43:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:46:14,110 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:46:14,110 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:46:14,121 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:46:16,052 - WARNING -  * Debugger is active!
+2024-04-12 19:46:16,066 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:46:27,255 - INFO - Received prediction request.
+2024-04-12 19:46:27,257 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:46:27,398 - INFO - Prediction made: traffic_volume_scaled=[0.36987593]
+2024-04-12 19:46:27,400 - ERROR - Error occurred: Found array with dim 3. None expected <= 2.
+2024-04-12 19:46:27,417 - INFO - 127.0.0.1 - - [12/Apr/2024 19:46:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:46:27,976 - INFO - 127.0.0.1 - - [12/Apr/2024 19:46:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:46:27,979 - INFO - 127.0.0.1 - - [12/Apr/2024 19:46:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:46:28,312 - INFO - 127.0.0.1 - - [12/Apr/2024 19:46:28] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:46:28,580 - INFO - 127.0.0.1 - - [12/Apr/2024 19:46:28] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:47:55,663 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:47:55,663 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:47:55,676 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:47:57,762 - WARNING -  * Debugger is active!
+2024-04-12 19:47:57,766 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:47:57,785 - INFO - Received prediction request.
+2024-04-12 19:47:57,788 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:47:57,875 - INFO - Prediction made: traffic_volume_scaled=[0.36987593]
+2024-04-12 19:47:57,875 - ERROR - Error occurred: Found array with dim 3. None expected <= 2.
+2024-04-12 19:47:57,889 - INFO - 127.0.0.1 - - [12/Apr/2024 19:47:57] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:47:57,981 - INFO - 127.0.0.1 - - [12/Apr/2024 19:47:57] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:47:57,987 - INFO - 127.0.0.1 - - [12/Apr/2024 19:47:57] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:47:58,396 - INFO - 127.0.0.1 - - [12/Apr/2024 19:47:58] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:47:58,653 - INFO - 127.0.0.1 - - [12/Apr/2024 19:47:58] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:52:29,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:52:29,649 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:52:29,664 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:52:31,909 - WARNING -  * Debugger is active!
+2024-04-12 19:52:31,914 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:52:39,395 - INFO - Received prediction request.
+2024-04-12 19:52:39,397 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:52:39,534 - INFO - Prediction made: traffic_volume_scaled=[0.36987593]
+2024-04-12 19:52:39,535 - ERROR - Error occurred: Expected 2D array, got 1D array instead:
+array=[0.36987593].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2024-04-12 19:52:39,551 - INFO - 127.0.0.1 - - [12/Apr/2024 19:52:39] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:52:39,638 - INFO - 127.0.0.1 - - [12/Apr/2024 19:52:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:52:39,665 - INFO - 127.0.0.1 - - [12/Apr/2024 19:52:39] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:52:40,040 - INFO - 127.0.0.1 - - [12/Apr/2024 19:52:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:52:40,284 - INFO - 127.0.0.1 - - [12/Apr/2024 19:52:40] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:53:51,318 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 19:53:51,318 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 19:53:51,331 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 19:53:53,436 - WARNING -  * Debugger is active!
+2024-04-12 19:53:53,439 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 19:53:54,441 - INFO - Received prediction request.
+2024-04-12 19:53:54,443 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 19:53:54,545 - INFO - Prediction made: traffic_volume_scaled=[0.36987593]
+2024-04-12 19:53:54,546 - ERROR - Error occurred: Expected 2D array, got 1D array instead:
+array=[0.36987593].
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2024-04-12 19:53:54,560 - INFO - 127.0.0.1 - - [12/Apr/2024 19:53:54] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 19:53:54,830 - INFO - 127.0.0.1 - - [12/Apr/2024 19:53:54] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 19:53:54,832 - INFO - 127.0.0.1 - - [12/Apr/2024 19:53:54] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 19:53:55,201 - INFO - 127.0.0.1 - - [12/Apr/2024 19:53:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 19:53:55,452 - INFO - 127.0.0.1 - - [12/Apr/2024 19:53:55] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 20:43:04,648 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 20:43:04,649 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 20:43:04,673 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 20:43:06,963 - WARNING -  * Debugger is active!
+2024-04-12 20:43:06,971 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 20:43:09,313 - INFO - Received prediction request.
+2024-04-12 20:43:09,316 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 20:43:09,324 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-12 20:43:09,461 - ERROR - Error occurred: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2024-04-12 20:43:09,465 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2024-04-12 20:43:09,465 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2024-04-12 20:43:09,467 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2024-04-12 20:43:09,468 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2024-04-12 20:43:09,471 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\preprocessing\\_data.py', reloading
+2024-04-12 20:43:09,472 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+2024-04-12 20:43:09,479 - INFO - 127.0.0.1 - - [12/Apr/2024 20:43:09] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-04-12 20:43:10,002 - INFO - 127.0.0.1 - - [12/Apr/2024 20:43:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-12 20:43:10,006 - INFO - 127.0.0.1 - - [12/Apr/2024 20:43:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-12 20:43:10,345 - INFO - 127.0.0.1 - - [12/Apr/2024 20:43:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 20:43:10,609 - INFO - 127.0.0.1 - - [12/Apr/2024 20:43:10] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-12 20:43:11,019 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 20:43:13,287 - WARNING -  * Debugger is active!
+2024-04-12 20:43:13,291 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 20:45:48,124 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 20:45:48,125 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 20:45:48,138 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 20:45:50,363 - WARNING -  * Debugger is active!
+2024-04-12 20:45:50,369 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 20:45:50,396 - INFO - Received prediction request.
+2024-04-12 20:45:50,399 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 20:45:50,548 - INFO - Prediction made: traffic_volume=[[2692.69676788]]
+2024-04-12 20:45:50,553 - INFO - 127.0.0.1 - - [12/Apr/2024 20:45:50] "POST /predict HTTP/1.1" 200 -
+2024-04-12 20:46:44,740 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-12 20:46:44,740 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-12 20:46:44,753 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-12 20:46:46,733 - WARNING -  * Debugger is active!
+2024-04-12 20:46:46,741 - INFO -  * Debugger PIN: 448-730-428
+2024-04-12 20:46:46,767 - INFO - Received prediction request.
+2024-04-12 20:46:46,769 - INFO - Form data received: temp=20.0, rain=0.0, snow=0, clouds=49.0, dayOfWeek=1, weekend=0, weatherDesc=2, holiday=0
+2024-04-12 20:46:46,864 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-12 20:46:46,864 - INFO - Prediction made: traffic_volume=[[2692.69676788]]
+2024-04-12 20:46:46,869 - INFO - 127.0.0.1 - - [12/Apr/2024 20:46:46] "POST /predict HTTP/1.1" 200 -
+2024-04-13 17:54:18,401 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 17:54:18,401 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 17:54:18,420 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 17:54:21,338 - WARNING -  * Debugger is active!
+2024-04-13 17:54:21,343 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 17:54:51,519 - INFO - 127.0.0.1 - - [13/Apr/2024 17:54:51] "GET / HTTP/1.1" 200 -
+2024-04-13 17:54:51,603 - INFO - 127.0.0.1 - - [13/Apr/2024 17:54:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-13 17:56:40,895 - INFO - 127.0.0.1 - - [13/Apr/2024 17:56:40] "GET / HTTP/1.1" 200 -
+2024-04-13 17:57:47,132 - INFO - 127.0.0.1 - - [13/Apr/2024 17:57:47] "GET / HTTP/1.1" 200 -
+2024-04-13 17:59:07,196 - INFO - 127.0.0.1 - - [13/Apr/2024 17:59:07] "GET / HTTP/1.1" 200 -
+2024-04-13 17:59:10,296 - INFO - 127.0.0.1 - - [13/Apr/2024 17:59:10] "GET / HTTP/1.1" 200 -
+2024-04-13 17:59:51,280 - INFO - 127.0.0.1 - - [13/Apr/2024 17:59:51] "GET / HTTP/1.1" 200 -
+2024-04-13 18:00:53,063 - INFO - 127.0.0.1 - - [13/Apr/2024 18:00:53] "GET / HTTP/1.1" 200 -
+2024-04-13 18:03:06,511 - INFO - 127.0.0.1 - - [13/Apr/2024 18:03:06] "GET / HTTP/1.1" 200 -
+2024-04-13 18:03:39,875 - INFO - 127.0.0.1 - - [13/Apr/2024 18:03:39] "GET / HTTP/1.1" 200 -
+2024-04-13 18:04:58,926 - INFO - 127.0.0.1 - - [13/Apr/2024 18:04:58] "GET / HTTP/1.1" 200 -
+2024-04-13 18:05:55,873 - INFO - 127.0.0.1 - - [13/Apr/2024 18:05:55] "GET / HTTP/1.1" 200 -
+2024-04-13 18:06:56,228 - INFO - 127.0.0.1 - - [13/Apr/2024 18:06:56] "GET / HTTP/1.1" 200 -
+2024-04-13 18:10:52,367 - INFO - Received prediction request.
+2024-04-13 18:10:52,414 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:10:52,820 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:10:52,820 - INFO - Prediction made: traffic_volume=[[2692.69676788]]
+2024-04-13 18:10:52,832 - INFO - 127.0.0.1 - - [13/Apr/2024 18:10:52] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:12:49,850 - INFO - Received prediction request.
+2024-04-13 18:12:49,852 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:12:49,932 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:12:49,932 - INFO - Prediction made: traffic_volume=[[2692.69676788]]
+2024-04-13 18:12:49,934 - INFO - 127.0.0.1 - - [13/Apr/2024 18:12:49] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:15:08,777 - INFO - Received prediction request.
+2024-04-13 18:15:08,777 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:15:08,854 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:15:08,855 - INFO - Prediction made: traffic_volume=[[2692.69676788]]
+2024-04-13 18:15:08,862 - INFO - 127.0.0.1 - - [13/Apr/2024 18:15:08] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:16:18,012 - INFO - Received prediction request.
+2024-04-13 18:16:18,012 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:16:18,107 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:16:18,108 - INFO - Prediction made: traffic_volume=[[2692.69676788]]
+2024-04-13 18:16:18,114 - INFO - 127.0.0.1 - - [13/Apr/2024 18:16:18] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:17:04,331 - INFO - Received prediction request.
+2024-04-13 18:17:04,331 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:17:04,407 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:17:04,408 - INFO - Prediction made: traffic_volume=[[2692.69676788]]
+2024-04-13 18:17:04,415 - INFO - 127.0.0.1 - - [13/Apr/2024 18:17:04] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:18:27,906 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sympy\\polys\\__init__.py', reloading
+2024-04-13 18:18:30,409 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:18:34,981 - WARNING -  * Debugger is active!
+2024-04-13 18:18:34,999 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:18:51,904 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:18:51,904 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:18:51,921 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:18:54,390 - WARNING -  * Debugger is active!
+2024-04-13 18:18:54,398 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:18:57,537 - INFO - Received prediction request.
+2024-04-13 18:18:57,540 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:18:57,598 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:18:57,599 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:18:57,606 - INFO - 127.0.0.1 - - [13/Apr/2024 18:18:57] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:19:37,241 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:19:37,241 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:19:37,253 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:19:39,347 - WARNING -  * Debugger is active!
+2024-04-13 18:19:39,352 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:19:39,373 - INFO - Received prediction request.
+2024-04-13 18:19:39,375 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:19:39,394 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:19:39,394 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=Very High
+2024-04-13 18:19:39,402 - INFO - 127.0.0.1 - - [13/Apr/2024 18:19:39] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:20:05,858 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:20:05,858 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:20:05,870 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:20:07,824 - WARNING -  * Debugger is active!
+2024-04-13 18:20:07,843 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:20:07,860 - INFO - Received prediction request.
+2024-04-13 18:20:07,862 - INFO - Form data received: temp=20.0, rain=5.0, snow=0, clouds=40.0, dayOfWeek=3, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:20:07,873 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:20:07,874 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:20:07,878 - INFO - 127.0.0.1 - - [13/Apr/2024 18:20:07] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:24:28,154 - INFO - Received prediction request.
+2024-04-13 18:24:28,156 - INFO - Form data received: temp=30.0, rain=30.0, snow=0, clouds=20.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:24:28,165 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:24:28,165 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:24:28,174 - INFO - 127.0.0.1 - - [13/Apr/2024 18:24:28] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:27:43,926 - INFO - Received prediction request.
+2024-04-13 18:27:43,929 - INFO - Form data received: temp=0.0, rain=0.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:27:43,934 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:27:43,934 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:27:43,936 - INFO - 127.0.0.1 - - [13/Apr/2024 18:27:43] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:31:30,439 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:31:30,440 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:31:30,462 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:31:32,807 - WARNING -  * Debugger is active!
+2024-04-13 18:31:32,815 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:31:38,715 - INFO - Received prediction request.
+2024-04-13 18:31:38,735 - INFO - Form data received: temp=0.0, rain=0.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:31:38,926 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:31:38,927 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:31:38,934 - INFO - 127.0.0.1 - - [13/Apr/2024 18:31:38] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:31:57,088 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:31:57,088 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:31:57,101 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:31:59,063 - WARNING -  * Debugger is active!
+2024-04-13 18:31:59,069 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:31:59,093 - INFO - Received prediction request.
+2024-04-13 18:31:59,097 - INFO - Form data received: temp=0.0, rain=0.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:31:59,113 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:31:59,113 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:31:59,120 - INFO - 127.0.0.1 - - [13/Apr/2024 18:31:59] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:36:06,733 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:36:08,037 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:36:11,040 - WARNING -  * Debugger is active!
+2024-04-13 18:36:11,045 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:37:56,541 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:37:56,541 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:37:56,542 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:37:56,542 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:37:57,918 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:38:00,547 - WARNING -  * Debugger is active!
+2024-04-13 18:38:00,550 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:38:12,256 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:38:14,808 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:38:14,808 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:38:14,817 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:38:16,745 - WARNING -  * Debugger is active!
+2024-04-13 18:38:16,749 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:38:16,767 - INFO - Received prediction request.
+2024-04-13 18:38:16,769 - INFO - Form data received: temp=0.0, rain=0.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:38:16,823 - INFO - Received input data: temp=0.0, rain=0.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:38:16,823 - INFO - Scaled input data: [[0. 0. 0. 0. 0. 0. 0. 0.]]
+2024-04-13 18:38:16,824 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:38:16,824 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:38:16,831 - INFO - 127.0.0.1 - - [13/Apr/2024 18:38:16] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:39:12,394 - INFO - Received prediction request.
+2024-04-13 18:39:12,396 - INFO - Form data received: temp=30.0, rain=30.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:39:12,400 - INFO - Received input data: temp=30.0, rain=30.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:39:12,400 - INFO - Scaled input data: [[0. 0. 0. 0. 0. 0. 0. 0.]]
+2024-04-13 18:39:12,400 - INFO - Prediction made: traffic_volume=[0.36987593]
+2024-04-13 18:39:12,400 - INFO - Prediction made: traffic_volume=2692.6967678789288, congestion_level=High
+2024-04-13 18:39:12,401 - INFO - 127.0.0.1 - - [13/Apr/2024 18:39:12] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:40:08,898 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:40:08,900 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:40:08,900 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:40:10,352 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:40:13,528 - WARNING -  * Debugger is active!
+2024-04-13 18:40:13,532 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:40:28,661 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:40:28,662 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:40:28,671 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:40:30,575 - WARNING -  * Debugger is active!
+2024-04-13 18:40:30,578 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:40:30,611 - INFO - Received prediction request.
+2024-04-13 18:40:30,613 - INFO - Form data received: temp=30.0, rain=30.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:40:30,631 - INFO - Received input data: temp=30.0, rain=30.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:40:30,633 - INFO - Scaled input data: [[-1. -1. -1. -1. -1. -1. -1. -1.]]
+2024-04-13 18:40:30,633 - INFO - Prediction made: traffic_volume=[-0.31954928]
+2024-04-13 18:40:30,633 - INFO - Prediction made: traffic_volume=-2326.3187405707813, congestion_level=Low
+2024-04-13 18:40:30,639 - INFO - 127.0.0.1 - - [13/Apr/2024 18:40:30] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:44:03,722 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:44:03,736 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:44:03,737 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 18:44:05,284 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:44:07,897 - WARNING -  * Debugger is active!
+2024-04-13 18:44:07,902 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:44:33,987 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 18:44:33,987 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 18:44:33,997 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:44:36,193 - WARNING -  * Debugger is active!
+2024-04-13 18:44:36,197 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:44:37,292 - INFO - Received prediction request.
+2024-04-13 18:44:37,299 - INFO - Form data received: temp=30.0, rain=30.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:44:37,316 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-13 18:44:37,329 - INFO - Received input data: temp=30.0, rain=30.0, snow=0, clouds=0.0, dayOfWeek=1, weekend=0, weatherDesc=6, holiday=1
+2024-04-13 18:44:37,330 - INFO - Scaled input data: [[0.89622076 0.95846645 0.         0.         0.16666667 0.
+  0.75       1.        ]]
+2024-04-13 18:44:37,330 - INFO - Prediction made: traffic_volume=[0.07245408]
+2024-04-13 18:44:37,330 - INFO - Prediction made: traffic_volume=527.4656720227345, congestion_level=Low
+2024-04-13 18:44:37,336 - INFO - 127.0.0.1 - - [13/Apr/2024 18:44:37] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:44:38,552 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 18:44:40,595 - WARNING -  * Debugger is active!
+2024-04-13 18:44:40,598 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 18:47:13,772 - INFO - Received prediction request.
+2024-04-13 18:47:13,774 - INFO - Form data received: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:47:13,846 - INFO - Received input data: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:47:13,846 - INFO - Scaled input data: [[1.00119976 0.85942492 0.         0.2        0.33333333 0.
+  0.         0.        ]]
+2024-04-13 18:47:13,847 - INFO - Prediction made: traffic_volume=[0.53339239]
+2024-04-13 18:47:13,847 - INFO - Prediction made: traffic_volume=3883.096582795398, congestion_level=High
+2024-04-13 18:47:13,855 - INFO - 127.0.0.1 - - [13/Apr/2024 18:47:13] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:54:37,432 - INFO - Received prediction request.
+2024-04-13 18:54:37,441 - INFO - Form data received: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:54:37,538 - INFO - Received input data: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:54:37,538 - INFO - Scaled input data: [[1.00119976 0.85942492 0.         0.2        0.33333333 0.
+  0.         0.        ]]
+2024-04-13 18:54:37,538 - INFO - Prediction made: traffic_volume=[0.53339239]
+2024-04-13 18:54:37,540 - INFO - Prediction made: traffic_volume=3883.096582795398, congestion_level=High
+2024-04-13 18:54:37,567 - INFO - 127.0.0.1 - - [13/Apr/2024 18:54:37] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:54:37,597 - INFO - 127.0.0.1 - - [13/Apr/2024 18:54:37] "[33mGET /high_congestion_image.jpg HTTP/1.1[0m" 404 -
+2024-04-13 18:57:54,324 - INFO - Received prediction request.
+2024-04-13 18:57:54,325 - INFO - Form data received: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:57:54,335 - INFO - Received input data: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:57:54,335 - INFO - Scaled input data: [[1.00119976 0.85942492 0.         0.2        0.33333333 0.
+  0.         0.        ]]
+2024-04-13 18:57:54,335 - INFO - Prediction made: traffic_volume=[0.53339239]
+2024-04-13 18:57:54,336 - INFO - Prediction made: traffic_volume=3883.096582795398, congestion_level=High
+2024-04-13 18:57:54,354 - INFO - 127.0.0.1 - - [13/Apr/2024 18:57:54] "POST /predict HTTP/1.1" 200 -
+2024-04-13 18:59:33,265 - INFO - Received prediction request.
+2024-04-13 18:59:33,271 - INFO - Form data received: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:59:33,284 - INFO - Received input data: temp=37.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 18:59:33,284 - INFO - Scaled input data: [[1.00119976 0.85942492 0.         0.2        0.33333333 0.
+  0.         0.        ]]
+2024-04-13 18:59:33,284 - INFO - Prediction made: traffic_volume=[0.53339239]
+2024-04-13 18:59:33,284 - INFO - Prediction made: traffic_volume=3883.096582795398, congestion_level=High
+2024-04-13 18:59:33,296 - INFO - 127.0.0.1 - - [13/Apr/2024 18:59:33] "POST /predict HTTP/1.1" 200 -
+2024-04-13 19:00:02,729 - INFO - Received prediction request.
+2024-04-13 19:00:02,730 - INFO - Form data received: temp=32.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 19:00:02,738 - INFO - Received input data: temp=32.0, rain=26.9, snow=0, clouds=20.0, dayOfWeek=2, weekend=0, weatherDesc=0, holiday=0
+2024-04-13 19:00:02,739 - INFO - Scaled input data: [[0.92621476 0.85942492 0.         0.2        0.33333333 0.
+  0.         0.        ]]
+2024-04-13 19:00:02,739 - INFO - Prediction made: traffic_volume=[0.49316619]
+2024-04-13 19:00:02,739 - INFO - Prediction made: traffic_volume=3590.2498824811423, congestion_level=High
+2024-04-13 19:00:02,740 - INFO - 127.0.0.1 - - [13/Apr/2024 19:00:02] "POST /predict HTTP/1.1" 200 -
+2024-04-13 19:01:17,535 - INFO - Received prediction request.
+2024-04-13 19:01:17,535 - INFO - Form data received: temp=32.0, rain=70.0, snow=0, clouds=80.0, dayOfWeek=5, weekend=1, weatherDesc=8, holiday=1
+2024-04-13 19:01:17,546 - INFO - Received input data: temp=32.0, rain=70.0, snow=0, clouds=80.0, dayOfWeek=5, weekend=1, weatherDesc=8, holiday=1
+2024-04-13 19:01:17,547 - INFO - Scaled input data: [[0.92621476 2.23642173 0.         0.8        0.83333333 1.
+  1.         1.        ]]
+2024-04-13 19:01:17,547 - INFO - Prediction made: traffic_volume=[-0.13995342]
+2024-04-13 19:01:17,548 - INFO - Prediction made: traffic_volume=-1018.8608807606478, congestion_level=Low
+2024-04-13 19:01:17,549 - INFO - 127.0.0.1 - - [13/Apr/2024 19:01:17] "POST /predict HTTP/1.1" 200 -
+2024-04-13 19:04:48,660 - INFO - Received prediction request.
+2024-04-13 19:04:48,660 - INFO - Form data received: temp=18.0, rain=30.0, snow=0, clouds=50.0, dayOfWeek=5, weekend=1, weatherDesc=2, holiday=0
+2024-04-13 19:04:48,673 - INFO - Received input data: temp=18.0, rain=30.0, snow=0, clouds=50.0, dayOfWeek=5, weekend=1, weatherDesc=2, holiday=0
+2024-04-13 19:04:48,673 - INFO - Scaled input data: [[0.71625675 0.95846645 0.         0.5        0.83333333 1.
+  0.25       0.        ]]
+2024-04-13 19:04:48,673 - INFO - Prediction made: traffic_volume=[0.3159977]
+2024-04-13 19:04:48,674 - INFO - Prediction made: traffic_volume=2300.463236438929, congestion_level=High
+2024-04-13 19:04:48,674 - INFO - 127.0.0.1 - - [13/Apr/2024 19:04:48] "POST /predict HTTP/1.1" 200 -
+2024-04-13 19:08:35,687 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-13 19:08:35,688 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-13 19:08:35,706 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:08:37,636 - WARNING -  * Debugger is active!
+2024-04-13 19:08:37,643 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 19:08:37,663 - INFO - Received prediction request.
+2024-04-13 19:08:37,666 - INFO - Form data received: temp=18.0, rain=30.0, snow=0, clouds=50.0, dayOfWeek=5, weekend=1, weatherDesc=2, holiday=0
+2024-04-13 19:08:37,726 - INFO - Received input data: temp=18.0, rain=30.0, snow=0, clouds=50.0, dayOfWeek=5, weekend=1, weatherDesc=2, holiday=0
+2024-04-13 19:08:37,727 - INFO - Scaled input data: [[0.71625675 0.95846645 0.         0.5        0.83333333 1.
+  0.25       0.        ]]
+2024-04-13 19:08:37,727 - INFO - Prediction made: traffic_volume=[0.3159977]
+2024-04-13 19:08:37,728 - INFO - Prediction made: traffic_volume=2300.463236438929, congestion_level=High
+2024-04-13 19:08:37,734 - INFO - 127.0.0.1 - - [13/Apr/2024 19:08:37] "POST /predict HTTP/1.1" 200 -
+2024-04-13 19:47:01,789 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:47:01,804 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:47:04,112 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:47:08,424 - WARNING -  * Debugger is active!
+2024-04-13 19:47:08,439 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 19:50:36,046 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:50:36,047 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:50:36,048 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:50:37,388 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:50:40,564 - WARNING -  * Debugger is active!
+2024-04-13 19:50:40,569 - INFO -  * Debugger PIN: 448-730-428
+2024-04-13 19:50:40,810 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:50:40,810 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:50:40,811 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:50:40,811 - INFO -  * Detected change in 'C:\\Users\\Hp\\PycharmProjects\\FYP_Project2024\\FYP_Final\\model_deployment.py', reloading
+2024-04-13 19:50:42,086 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-13 19:50:44,848 - WARNING -  * Debugger is active!
+2024-04-13 19:50:44,853 - INFO -  * Debugger PIN: 448-730-428
+2024-04-15 11:01:24,224 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-15 11:01:24,226 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-15 11:01:24,250 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 11:01:27,692 - WARNING -  * Debugger is active!
+2024-04-15 11:01:27,700 - INFO -  * Debugger PIN: 448-730-428
+2024-04-15 11:01:49,017 - INFO - 127.0.0.1 - - [15/Apr/2024 11:01:49] "GET / HTTP/1.1" 200 -
+2024-04-15 11:01:49,243 - INFO - 127.0.0.1 - - [15/Apr/2024 11:01:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-15 11:02:38,528 - INFO - Received prediction request.
+2024-04-15 11:02:38,540 - INFO - Form data received: temp=22.0, rain=21.9, snow=0, clouds=22.0, dayOfWeek=0, weekend=0, weatherDesc=0, holiday=1
+2024-04-15 11:02:38,562 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-15 11:02:38,644 - INFO - Received input data: temp=22.0, rain=21.9, snow=0, clouds=22.0, dayOfWeek=0, weekend=0, weatherDesc=0, holiday=1
+2024-04-15 11:02:38,645 - INFO - Scaled input data: [[0.77624475 0.69968051 0.         0.22       0.         0.
+  0.         1.        ]]
+2024-04-15 11:02:38,645 - INFO - Prediction made: traffic_volume=[0.16385266]
+2024-04-15 11:02:38,646 - INFO - Prediction made: traffic_volume=1192.8473678846715, congestion_level=Moderate
+2024-04-15 11:02:38,673 - INFO - 127.0.0.1 - - [15/Apr/2024 11:02:38] "POST /predict HTTP/1.1" 200 -
+2024-04-15 11:02:39,990 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-15 11:02:43,402 - WARNING -  * Debugger is active!
+2024-04-15 11:02:43,406 - INFO -  * Debugger PIN: 448-730-428
+2024-04-16 09:07:47,205 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 09:07:47,206 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 09:07:47,245 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-16 09:07:53,686 - WARNING -  * Debugger is active!
+2024-04-16 09:07:53,693 - INFO -  * Debugger PIN: 448-730-428
+2024-04-16 09:08:05,599 - INFO - 127.0.0.1 - - [16/Apr/2024 09:08:05] "GET / HTTP/1.1" 200 -
+2024-04-16 09:08:05,809 - INFO - 127.0.0.1 - - [16/Apr/2024 09:08:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-16 09:08:23,112 - INFO - Received prediction request.
+2024-04-16 09:08:23,121 - INFO - Form data received: temp=20.0, rain=20.0, snow=0, clouds=20.0, dayOfWeek=0, weekend=0, weatherDesc=0, holiday=0
+2024-04-16 09:08:23,144 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-16 09:08:23,230 - INFO - Received input data: temp=20.0, rain=20.0, snow=0, clouds=20.0, dayOfWeek=0, weekend=0, weatherDesc=0, holiday=0
+2024-04-16 09:08:23,230 - INFO - Scaled input data: [[0.74625075 0.63897764 0.         0.2        0.         0.
+  0.         0.        ]]
+2024-04-16 09:08:23,231 - INFO - Prediction made: traffic_volume=[0.40535053]
+2024-04-16 09:08:23,232 - INFO - Prediction made: traffic_volume=2950.951879991939, congestion_level=High
+2024-04-16 09:08:23,262 - INFO - 127.0.0.1 - - [16/Apr/2024 09:08:23] "POST /predict HTTP/1.1" 200 -
+2024-04-16 09:08:24,705 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-16 09:08:28,853 - WARNING -  * Debugger is active!
+2024-04-16 09:08:28,859 - INFO -  * Debugger PIN: 448-730-428
+2024-04-16 10:08:34,107 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-16 10:08:34,107 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-16 10:08:34,134 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-16 10:08:38,678 - WARNING -  * Debugger is active!
+2024-04-16 10:08:38,689 - INFO -  * Debugger PIN: 448-730-428
+2024-04-16 10:08:38,756 - INFO - 127.0.0.1 - - [16/Apr/2024 10:08:38] "GET / HTTP/1.1" 200 -
+2024-04-16 10:08:39,208 - INFO - 127.0.0.1 - - [16/Apr/2024 10:08:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-16 10:09:41,913 - INFO - Received prediction request.
+2024-04-16 10:09:41,916 - INFO - Form data received: temp=6.0, rain=4.0, snow=0, clouds=87.0, dayOfWeek=5, weekend=1, weatherDesc=4, holiday=0
+2024-04-16 10:09:41,935 - INFO -  * Detected change in 'C:\\Users\\Hp\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-16 10:09:41,999 - INFO - Received input data: temp=6.0, rain=4.0, snow=0, clouds=87.0, dayOfWeek=5, weekend=1, weatherDesc=4, holiday=0
+2024-04-16 10:09:41,999 - INFO - Scaled input data: [[0.53629274 0.12779553 0.         0.87       0.83333333 1.
+  0.5        0.        ]]
+2024-04-16 10:09:42,000 - INFO - Prediction made: traffic_volume=[0.40648846]
+2024-04-16 10:09:42,000 - INFO - Prediction made: traffic_volume=2959.2359708174145, congestion_level=High
+2024-04-16 10:09:42,018 - INFO - 127.0.0.1 - - [16/Apr/2024 10:09:42] "POST /predict HTTP/1.1" 200 -
+2024-04-16 10:09:43,311 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-16 10:09:46,369 - WARNING -  * Debugger is active!
+2024-04-16 10:09:46,373 - INFO -  * Debugger PIN: 448-730-428
+2024-04-20 14:46:29,502 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-20 14:46:29,503 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-20 14:46:29,525 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-20 14:46:33,664 - WARNING -  * Debugger is active!
+2024-04-20 14:46:33,669 - INFO -  * Debugger PIN: 448-730-428
